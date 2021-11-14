@@ -1,0 +1,15 @@
+2021-11-14  INFO 12910 --- [main] ClassifierCompositeItemwriterApplication : Starting ClassifierCompositeItemwriterApplication using Java 11.0.11 on MacBiek.fritz.box with PID 12910 (/Users/jobiek/src/classifier-composite-list-splitting-itemwriter/target/classes started by jobiek in /Users/jobiek/src/classifier-composite-list-splitting-itemwriter)
+2021-11-14  INFO 12910 --- [main] ClassifierCompositeItemwriterApplication : The following profiles are active: dev
+2021-11-14  WARN 12910 --- [main] o.s.b.c.c.a.DefaultBatchConfigurer       : No transaction manager was provided, using a DataSourceTransactionManager
+2021-11-14  INFO 12910 --- [main] ClassifierCompositeItemwriterApplication : Started ClassifierCompositeItemwriterApplication in 1.03 seconds (JVM running for 1.381)
+2021-11-14  INFO 12910 --- [main] n.b.c.service.TriggerJobService          : Triggering Job with JobParameters {outputPath=/Users/jobiek/src/classifier-composite-list-splitting-itemwriter/output/, timestamp=2021-11-14T07:58:52.90237}
+2021-11-14  INFO 14105 --- [main] ClassifierCompositeItemwriterApplication : Starting ClassifierCompositeItemwriterApplication using Java 11.0.11 on MacBiek.fritz.box with PID 14105 (/Users/jobiek/src/classifier-composite-list-splitting-itemwriter/target/classes started by jobiek in /Users/jobiek/src/classifier-composite-list-splitting-itemwriter)
+2021-11-14  INFO 14105 --- [main] ClassifierCompositeItemwriterApplication : The following profiles are active: dev
+2021-11-14  WARN 14105 --- [main] o.s.b.c.c.a.DefaultBatchConfigurer       : No transaction manager was provided, using a DataSourceTransactionManager
+2021-11-14  INFO 14105 --- [main] ClassifierCompositeItemwriterApplication : Started ClassifierCompositeItemwriterApplication in 0.918 seconds (JVM running for 1.232)
+2021-11-14  INFO 14105 --- [main] n.b.c.service.TriggerJobService          : Triggering Job with JobParameters {outputPath=/Users/jobiek/src/classifier-composite-list-splitting-itemwriter/output/, timestamp=2021-11-14T08:48:44.176021}
+2021-11-14  INFO 14134 --- [main] ClassifierCompositeItemwriterApplication : Starting ClassifierCompositeItemwriterApplication using Java 11.0.11 on MacBiek.fritz.box with PID 14134 (/Users/jobiek/src/classifier-composite-list-splitting-itemwriter/target/classes started by jobiek in /Users/jobiek/src/classifier-composite-list-splitting-itemwriter)
+2021-11-14  INFO 14134 --- [main] ClassifierCompositeItemwriterApplication : The following profiles are active: dev
+2021-11-14  WARN 14134 --- [main] o.s.b.c.c.a.DefaultBatchConfigurer       : No transaction manager was provided, using a DataSourceTransactionManager
+2021-11-14  INFO 14134 --- [main] ClassifierCompositeItemwriterApplication : Started ClassifierCompositeItemwriterApplication in 0.864 seconds (JVM running for 1.165)
+2021-11-14  INFO 14134 --- [main] n.b.c.service.TriggerJobService          : Triggering Job with JobParameters {outputPath=/Users/jobiek/src/classifier-composite-list-splitting-itemwriter/output/, timestamp=2021-11-14T08:49:19.04957}
